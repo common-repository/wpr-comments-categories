@@ -1,0 +1,9 @@
+#wpr-current-categories {
+    max-width: 320px;
+}
+
+.wpr-delete-cat {
+    color: red;
+    text-decoration: none;
+    float: right;
+}

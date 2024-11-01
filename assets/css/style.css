@@ -1,0 +1,16 @@
+#wpr-comments-categories {
+    display: block;
+    position: relative;
+    margin: 20px;
+}
+
+#wpr-comments-categories li {
+    list-style-type: none;
+    display: inline-block;
+    float: none;
+    margin-right: 10px;
+}
+
+.comment-form-category select[name="comment-category"] {
+    margin-left: 10px;
+}
